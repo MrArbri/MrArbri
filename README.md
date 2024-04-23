@@ -1,12 +1,11 @@
 <h1>Thank you for your interest in my GitHub Profile!</h1>
 
-<p>Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br>
-  I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
+<p>Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br> I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
 
 
 <h2>Technologies I work with</h2>
 
-<a href=""><img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="50"></a> <a href="https://github.com/MrArbri"><img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="50"></a> <a href="https://github.com/MrArbri"><img src="https://camo.githubusercontent.com/768c5f87824d4e1b72d3ef77298cd999ff51576e3dad64b42b2c3faac7b2e852/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" height="50"></a>
+<a href="https://github.com/MrArbri"><img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="50"></a> <a href="https://github.com/MrArbri"><img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="50"></a> <a href="https://github.com/MrArbri"><img src="https://camo.githubusercontent.com/768c5f87824d4e1b72d3ef77298cd999ff51576e3dad64b42b2c3faac7b2e852/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f32352f32353233312e706e67" height="50"></a>
 
 
 <h4>Frontend</h4>
