@@ -23,6 +23,8 @@
 - <a href="https://arber.codefactory.wien/weekly-schedule/index.html">Weekly planner</a> - This project is built with HTML, CSS, and JavaScript. Click the 'Importance' button to increase its importance up to 5. After setting the importance level, click 'Sort by Importance'. You'll notice that the background color changes upon clicking.
 - <a href="https://arber.codefactory.wien/">My portfolio</a> - For more projects I've worked on, please visit my portfolio website.
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5d8bee34293a9378da9c8fa20c3bcacd88b2f816be4e4dbfb0e3e7d65ae2c3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446d69747269694d616c266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/c5d8bee34293a9378da9c8fa20c3bcacd88b2f816be4e4dbfb0e3e7d65ae2c3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446d69747269694d616c266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArbri&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a></p>
+
 <h2>📩 Contact me</h2>
 
 Email: islamaj.arb@gmail.com
