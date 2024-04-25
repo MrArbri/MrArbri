@@ -1,6 +1,6 @@
-<h1>Thank you for your interest in my GitHub Profile!</h1>
+<h1 align="center">Thank you for your interest in my GitHub Profile!</h1>
 
-<p>Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br> I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
+<p align="center">Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br> I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
 
 
 <h2>Technologies I work with</h2>
@@ -23,17 +23,22 @@
 - <a href="https://arber.codefactory.wien/weekly-schedule/index.html">Weekly planner</a> - This project is built with HTML, CSS, and JavaScript. Click the 'Importance' button to increase its importance up to 5. After setting the importance level, click 'Sort by Importance'. You'll notice that the background color changes upon clicking.
 - <a href="https://arber.codefactory.wien/">My portfolio</a> - For more projects I've worked on, please visit my portfolio website.
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5d8bee34293a9378da9c8fa20c3bcacd88b2f816be4e4dbfb0e3e7d65ae2c3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446d69747269694d616c266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/c5d8bee34293a9378da9c8fa20c3bcacd88b2f816be4e4dbfb0e3e7d65ae2c3c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446d69747269694d616c266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArbri&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrarbri&show_icons=true&locale=en&layout=compact" alt="MrArbri" /></p>
+
+
 
 <h2>📩 Contact me</h2>
 
 Email: islamaj.arb@gmail.com
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrarbri&label=Profile%20views&color=0e75b6&style=flat" alt="mrarbri" /> </p>
 
+<!---
 MrArbri/MrArbri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrarbri&" alt="MrArbri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrarbri&show_icons=true&locale=en" alt="MrArbri" /></p>
+
 --->
