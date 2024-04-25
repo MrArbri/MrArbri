@@ -1,6 +1,6 @@
 <h1 align="center">Thank you for your interest in my GitHub Profile!</h1>
 
-<p align="center">Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br> I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
+<p align="left">Hello! 👋 <br> I'm Arbër, a passionate junior Full Stack Web Developer with experience in website design and database development. <br> I have strong technical skills and enjoy collaborating with others. Excited to learn, collaborate and contribute more in the IT sector!</p>
 
 
 <h2>Technologies I work with</h2>
