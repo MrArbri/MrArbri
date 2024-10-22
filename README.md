@@ -18,7 +18,7 @@
 
 <h2>👨🏻‍💻 Some of my projects</h2>
 
-- <a href="https://arber.codefactory.wien/group-project/" target="_blank">Photographer website</a> 🔗 The Frontend Group project was built with Angular by me and four other students. It helped me learn how to work on a group project without encountering merge conflicts on GitHub while pushing and pulling.
+- <a href="https://mrarbri.github.io/Photographer-website/" target="_blank">Photographer website</a> 🔗 The Frontend Group project was built with Angular by me and four other students. It helped me learn how to work on a group project without encountering merge conflicts on GitHub while pushing and pulling.
 - <a href="https://mrarbri.github.io/FE20-CR3-ArberIslamaj/" target="_blank">Il Gambero Roso</a> 🔗 A restaurant website built with Angular. To test the functionality, click 'order' on the menu or go to details and click 'order'. The selected product will be added to the cart, and the total will be calculated. If the total exceeds €40, a 15% discount will be applied. Clicking the 'purchase' button will clear the cart.
 - <a href="https://mrarbri.github.io/FE20-CR2-ArberIslamaj/" target="_blank">Weekly planner</a> 🔗 This project is built with HTML, CSS, and JavaScript. Click the 'Importance' button to increase its importance up to 5. After setting the importance level, click 'Sort by Importance'. You'll notice that the background color changes upon clicking.
 - <a href="https://arber.codefactory.wien/" target="_blank">My portfolio</a> 🔗 For more projects I've worked on, please visit my portfolio website.
